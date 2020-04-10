@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="gary">#666161</color>
+
+    <color name="one">#CA5875</color>
+    <color name="two">#7D61D0</color>
+    <color name="three">#D88353</color>
+    <color name="four">#51AB9F</color>
+    <color name="five">#5C7DD5</color>
+
+    <color name="gary_trans">#279D9D9E</color>
+
+</resources>
